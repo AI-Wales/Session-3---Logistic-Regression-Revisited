@@ -3,7 +3,11 @@ Reviewing Logistic regression and some important concepts.
 
 This is a reformatted and restructured version of the Iris Data Logistic Regression discussed in Session 2 - only here we focus on each key step and then add regularisation.
 
-The accompanying slides can be seen [here](https://drive.google.com/open?id=173YSJmNomYBjWIlhXJq6-QILDwSEPDZf).
+
+## Slides and live streams
+The accompanying slides can be seen [here](https://drive.google.com/open?id=173YSJmNomYBjWIlhXJq6-QILDwSEPDZf). One particpant also live streamed much of the workshop - https://youtu.be/YES4Bh7Q3A8 and https://youtu.be/hpML0YLR9f0
+
+Join [AI Wales on slack](http://bit.ly/aiwslack) to join in the discussions!
 
 
 ## Things to try
