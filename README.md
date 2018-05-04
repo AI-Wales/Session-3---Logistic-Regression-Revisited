@@ -14,11 +14,11 @@ Experiment with the regularisation parameter (via the Logistic Regression C para
 ## Information from discussions in the session
 The sckit-utilities.py package is a small piece of code that we have written to plot the fitted model in 2D and show the decision boundaries. I forgot to include it in this repo initially (SORRY!!) but I have now uploaded it. Just make sure it is in the same directory as the Jupyter notebook and Jupyter will see it and load it. 
 
-Once trained the model produces a set of parameters that fit or model the data. These can be used to make a prediction on new data - either using the trained SciKit-Learn object or within your own function and code. You can see the paramters the model has learnt from your data by calling the '''get_params''' method.
+Once trained the model produces a set of parameters that fit or model the data. These can be used to make a prediction on new data - either using the trained SciKit-Learn object or within your own function and code. You can see the paramters the model has learnt from your data by calling the ```get_params``` method.
 
-'''python
+```python
 lr.get_params()
-'''
+```
 
 The Logistic Regression Documentation can be found [here](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) 
 
