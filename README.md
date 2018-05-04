@@ -22,4 +22,4 @@ lr.get_params()
 
 The Logistic Regression Documentation can be found [here](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) 
 
-We were also asked about teh difference between cost, error and loss functions. Well it seems it varies on people and definitions but there is a decent explanation in [here](https://www.quora.com/What-is-the-difference-between-a-cost-function-and-a-loss-function-in-machine-learning). A loss function tends to describe the error for single training point, while cost function is often defined for the whole training set. 
+We were also asked about the difference between cost, error and loss functions. Well it seems it varies on people and definitions but there is a decent explanation in [here](https://www.quora.com/What-is-the-difference-between-a-cost-function-and-a-loss-function-in-machine-learning). A loss function tends to describe the error for single training point, while cost function is often defined for the whole training set. 
