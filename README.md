@@ -8,7 +8,7 @@ The accompanying slides can be seen [here](https://drive.google.com/open?id=173Y
 
 ## Things to try
 Try changing the test:train split ratio
-Experiment with the regularisation paramter (via the Logistic Regression C paramter) and see what it does to teh model weights, 
+Experiment with the regularisation parameter (via the Logistic Regression C paramter) and see what it does to the model weights, accuracy and decision boundaries. 
 
 
 ## Information from discussions in the session
@@ -21,3 +21,5 @@ lr.get_params()
 '''
 
 The Logistic Regression Documentation can be found [here](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) 
+
+We were also asked about teh difference between cost, error and loss functions. Well it seems it varies on people and definitions but there is a decent explanation in [here](https://www.quora.com/What-is-the-difference-between-a-cost-function-and-a-loss-function-in-machine-learning). A loss function tends to describe the error for single training point, while cost function is often defined for the whole training set. 
